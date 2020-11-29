@@ -1,0 +1,17 @@
+venv
+**/.idea
+**/__pycache__
+
+**/.vscode
+.~lock.*#
+
+daas_generator/output/sqls/*.sql
+daas_generator/output/scripts/*.py
+
+*.log
+/data/**/*.txt
+.envrc
+
+dsp/executor/outputs.json
+config
+output/*
